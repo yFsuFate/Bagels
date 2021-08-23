@@ -16,7 +16,7 @@ I am a first year student studying computer science at Ryerson University
 
 
 
-### List of addictions:)
+### List of addictions :)
 ```markdown
 * Sky
 * Val
@@ -36,7 +36,7 @@ I am a first year student studying computer science at Ryerson University
             <a href="https://discord.gg/z6BY9QPe" target="blank"><i class="fab fa-discord fa-lg"></i> Join the Bagels</a>
         </td>
         <td>
-            <a href="https://www.youtube.com/channel/UCVTp-rIWyMLWFYJ6vrX54LA" target="blank"><i class="fab fa-youtube fa-lg"></i> Youtube</a>
+            <a href="https://www.youtube.com/channel/UCVTp-rIWyMLWFYJ6vrX54LA" target="blank"><i class="fab fa-youtube fa-lg"></i> Fottweiler</a>
         </td>
     </tr>
 </table>
