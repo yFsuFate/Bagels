@@ -32,13 +32,13 @@ I am a first year student studying computer science at Ryerson University
 <table>
     <tr>
         <td>
-            <a href="https://github.com/yourname" target="blank"><i class="fab fa-github fa-lg"></i> GitHub</a>
+            <a href="https://github.com/yFsufate" target="blank"><i class="fab fa-github fa-lg"></i> GitHub</a>
         </td>
         <td>
             <a href="https://linkedin.com/youraccount" target="blank"><i class="fab fa-linkedin fa-lg"></i> Linkedin</a>
         </td>
         <td>
-            <a href="https://twitter.com/youraccount" target="blank"><i class="fab fa-twitter-square fa-lg"></i> Twitter</a>
+            <a href="https://twitter.com/youraccount" target="blank"><i class="fab fa-instagram fa-lg"></i> Instagram</a>
         </td>
     </tr>
 </table>
@@ -62,8 +62,5 @@ I am a first year student studying computer science at Ryerson University
 ### My professional experiences
 
 ```markdown
-1. (2006-2007) Software Developer
-2. (2007-2010) Project Leader
-3. (2010-2015) IT Manager
-4. (2-15- Now) Product Mangager
+Yes.
 ```
