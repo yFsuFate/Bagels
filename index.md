@@ -2,30 +2,27 @@
 
 <script src="https://kit.fontawesome.com/6d173168d3.js" crossorigin="anonymous"></script>
 
-## Personal Information
+## Information
 Surname(s) / First name(s): **Flora Fu**
 
 Email(s): [fottweiler(at)gmail(dot)com](mailto:fottweiler@gmail.com)
 
-Date of birth: guess
 
-### About Me
+### About Us
 
-I am a first year student studying computer science at Ryerson University
-
-
+We are bagels that came together during quarantine.
 
 
 ### List of addictions :)
 ```markdown
+* Vc
 * Sky
+* Minecraft
 * Val
 * League
-* Vc
-* You.
 ```
 
-### Find me here
+### Find us here
 
 <table>
     <tr>
@@ -38,6 +35,12 @@ I am a first year student studying computer science at Ryerson University
         <td>
             <a href="https://www.youtube.com/channel/UCVTp-rIWyMLWFYJ6vrX54LA" target="blank"><i class="fab fa-youtube fa-lg"></i> Fottweiler</a>
         </td>
+        <td>
+            <a href="https://www.youtube.com/channel/UC6NqBvwkPs07OJ7uaZHf0XA" target="blank"><i class="fab fa-youtube fa-lg"></i> Kirina Kei</a>
+        </td>
+        <td>
+            <a href="https://www.youtube.com/channel/UCKW-d_GlZ-sblBa18tChqbw" target="blank"><i class="fab fa-youtube fa-lg"></i> Qia0w0</a>
+        </td>
     </tr>
 </table>
 
@@ -49,7 +52,7 @@ I am a first year student studying computer science at Ryerson University
 
 # Eduction
 
-* (1983-Forever) - Student
+* (2021-Now) - Student
 
 ## Technical Skills
 
@@ -57,7 +60,7 @@ I am a first year student studying computer science at Ryerson University
 
 * Java....?
 
-### My professional experiences
+### Our professional experiences
 
 ```markdown
 Yes.
