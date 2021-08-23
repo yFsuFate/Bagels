@@ -3,7 +3,7 @@
 <script src="https://kit.fontawesome.com/6d173168d3.js" crossorigin="anonymous"></script>
 
 ## Personal Information
-Surname(s) / First name(s): **Write down your full name here**
+Surname(s) / First name(s): **Flora Fu**
 
 Email(s): [y1fu(at)ryerson(dot)ca](mailto:y1fu@ryerson.ca)
 
@@ -15,9 +15,9 @@ I am a first year student studying computer science at Ryerson University
 
 
 
-```markdown
-### List of hobbies:
 
+### List of hobbies:
+```markdown
 * Coding
   * Elm
   * Haskell
@@ -35,10 +35,10 @@ I am a first year student studying computer science at Ryerson University
             <a href="https://github.com/yFsufate" target="blank"><i class="fab fa-github fa-lg"></i> GitHub</a>
         </td>
         <td>
-            <a href="https://linkedin.com/youraccount" target="blank"><i class="fab fa-linkedin fa-lg"></i> Linkedin</a>
+            <a href="https://discord.gg/z6BY9QPe" target="blank"><i class="fab fa-discord fa-lg"></i> Bagels</a>
         </td>
         <td>
-            <a href="https://twitter.com/youraccount" target="blank"><i class="fab fa-instagram fa-lg"></i> Instagram</a>
+            <a href="https://www.instagram.com/fottweiler.547/" target="blank"><i class="fab fa-instagram fa-lg"></i> Instagram</a>
         </td>
     </tr>
 </table>
