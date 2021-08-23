@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+title: Your web page name here
+description: [A brief description about you here]
+logo: /images/profile_image.png
+show_downloads: true
+google_analytics: [UA-175791564-1]
