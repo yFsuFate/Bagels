@@ -5,9 +5,9 @@
 ## Personal Information
 Surname(s) / First name(s): **Flora Fu**
 
-Email(s): [y1fu(at)ryerson(dot)ca](mailto:y1fu@ryerson.ca)
+Email(s): [fottweiler(at)gmail(dot)com](mailto:fottweiler@gmail.com)
 
-Date of birth: July 22, 2003
+Date of birth: guess
 
 ### About Me
 
@@ -16,15 +16,13 @@ I am a first year student studying computer science at Ryerson University
 
 
 
-### List of hobbies:
+### List of addictions:)
 ```markdown
-* Coding
-  * Elm
-  * Haskell
-    * Stack
-    * ghc
-* Biking
-* Hiking
+* Sky
+* Val
+* League
+* Vc
+* You.
 ```
 
 ### Find me here
@@ -35,10 +33,10 @@ I am a first year student studying computer science at Ryerson University
             <a href="https://github.com/yFsufate" target="blank"><i class="fab fa-github fa-lg"></i> GitHub</a>
         </td>
         <td>
-            <a href="https://discord.gg/z6BY9QPe" target="blank"><i class="fab fa-discord fa-lg"></i> Bagels</a>
+            <a href="https://discord.gg/z6BY9QPe" target="blank"><i class="fab fa-discord fa-lg"></i> Join the Bagels</a>
         </td>
         <td>
-            <a href="https://www.instagram.com/fottweiler.547/" target="blank"><i class="fab fa-instagram fa-lg"></i> Instagram</a>
+            <a href="https://www.youtube.com/channel/UCVTp-rIWyMLWFYJ6vrX54LA" target="blank"><i class="fab fa-youtube fa-lg"></i> Youtube</a>
         </td>
     </tr>
 </table>
@@ -57,7 +55,7 @@ I am a first year student studying computer science at Ryerson University
 
 ### Programming Languages
 
-* Elm
+* Java....?
 
 ### My professional experiences
 
