@@ -5,13 +5,13 @@
 ## Personal Information
 Surname(s) / First name(s): **Write down your full name here**
 
-Email(s): [gus46(at)mcmaster(dot)ca](mailto:gus46@mcmaster.ca)
+Email(s): [y1fu(at)ryerson(dot)ca](mailto:y1fu@ryerson.ca)
 
-Date of birth: December 17, 2003
+Date of birth: July 22, 2003
 
 ### About Me
 
-I am a first year student studying computer science at McMaster University
+I am a first year student studying computer science at Ryerson University
 
 
 
@@ -51,7 +51,7 @@ I am a first year student studying computer science at McMaster University
 
 # Eduction
 
-* (1983-Forever) - Student 
+* (1983-Forever) - Student
 
 ## Technical Skills
 
