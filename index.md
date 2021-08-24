@@ -21,7 +21,7 @@ We are bagels that came together during quarantine.
 * Val
 * League
 ```
-'hi hello nihave aohdiahosd aoeuifgeu akjshd uoehf euoahfeuifh siauhfiue eiufh'
+
 ### Find us here
 
 <table>
