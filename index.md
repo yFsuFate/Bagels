@@ -3,9 +3,7 @@
 <script src="https://kit.fontawesome.com/6d173168d3.js" crossorigin="anonymous"></script>
 
 ## Information
-Surname(s) / First name(s): **Flora Fu**
-
-Email(s): [fottweiler(at)gmail(dot)com](mailto:fottweiler@gmail.com)
+We are Bagels. Don't eat us :)
 
 
 ### About Us
@@ -26,9 +24,6 @@ We are bagels that came together during quarantine.
 
 <table>
     <tr>
-        <td>
-            <a href="https://github.com/yFsufate" target="blank"><i class="fab fa-github fa-lg"></i> GitHub</a>
-        </td>
         <td>
             <a href="https://discord.gg/z6BY9QPe" target="blank"><i class="fab fa-discord fa-lg"></i> Join the Bagels</a>
         </td>
